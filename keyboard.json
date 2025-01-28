@@ -1,0 +1,35 @@
+{
+    "keyboard_name": "X7",
+    "manufacturer": "fredi",
+    "url": "",
+    "maintainer": "fredi",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x7777",
+        "device_version": "1.0.0"
+    },
+    
+    "matrix_pins": {
+        "cols": ["GP14", "GP15"],
+        "rows": ["GP16"]
+    },
+    "diode_direction": "COL2ROW",
+    // "split": {
+    //     "enabled": true,
+    //     "serial": {
+    //         "pin": "D2"
+    //     }
+    // },
+    
+    "processor": "cortex-m0plus",
+    "bootloader": "rp2040",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0}
+
+            ]
+        }
+    }
+}
