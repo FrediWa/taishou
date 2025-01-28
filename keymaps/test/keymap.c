@@ -8,6 +8,6 @@ enum layer_number {
 };
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-    [_QWERTY] = LAYOUT(KC_A, KCX_CMD),
-    [_CMD] = LAYOUT(KC_RIGHT)
+    [_QWERTY] = LAYOUT(KC_COPY, KCX_CMD)
+    [_CMD] = LAYOUT(KC_LEFT, KC_TRNS),
 };

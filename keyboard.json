@@ -8,7 +8,6 @@
         "pid": "0x7777",
         "device_version": "1.0.0"
     },
-    
     "matrix_pins": {
         "cols": ["GP14", "GP15"],
         "rows": ["GP16"]
@@ -21,8 +20,9 @@
     //     }
     // },
     
-    "processor": "cortex-m0plus",
+    "processor": "RP2040",
     "bootloader": "rp2040",
+    "board": "GENERIC_RP_RP2040",
     "layouts": {
         "LAYOUT": {
             "layout": [
