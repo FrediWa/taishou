@@ -13,12 +13,19 @@
         "rows": ["GP16"]
     },
     "diode_direction": "COL2ROW",
-    // "split": {
-    //     "enabled": true,
-    //     "serial": {
-    //         "pin": "D2"
-    //     }
-    // },
+    "split": {
+        "enabled": true,
+        "serial": {
+            "pin": "GP8",
+            "driver": "vendor"
+        },
+        "matrix_pins": {
+            "right": {
+                "cols": ["GP2", "GP1"],
+                "rows": ["GP5"]
+            }
+        }
+    },
     
     "processor": "RP2040",
     "bootloader": "rp2040",
