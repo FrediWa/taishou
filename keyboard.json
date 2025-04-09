@@ -9,7 +9,7 @@
         "device_version": "1.0.0"
     },
     "matrix_pins": {
-        "cols": ["GP18", "GP19", "GP26", "GP22", "GP15", "GP23"],
+        "cols": ["GP18", "GP19", "GP26", "GP22", "GP15", "GP13"],
         "rows": ["GP28", "GP27", "GP21", "GP20", "GP17"]
     },
     "diode_direction": "COL2ROW",
