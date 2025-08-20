@@ -1,4 +1,4 @@
-# kb-x7
+# Taishou - DIY ergonomic split keyboard
 The current state of the keyboard is a fully working minimum viable product. It's still a bit fragile and I'm cautious when transporting it. 
 One day I felt intrigued by split keyboards. I quickly found a EU site and I started adding parts to the cart. After I had everything, I was looking at 200€ plus shipping. No deal. I had some opinions on the options any way. I then had the dumb idea to make it myself from scratch. 
 
