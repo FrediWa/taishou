@@ -8,6 +8,8 @@ I settled for a column staggered keyboard because I always thought normal (row s
 ## Mk. 3
 Mk.3 will feature a custom PCB. The PCB is designed to be reversible to reduce waste (PCB manufacturers usually have a minimum number of boards for a design). The reversability has posed a design challenge but should work and is being validated. The reversability also prompted a proper brand for the keyboard; Taishou, symmetry in Japanese. Mk.3 also gets new switches and proper keycaps, adding a significant amount to the otherwise cheap design. If Mk.2 cost around 50€ of material and a couple of hours of work, Mk.3 will be closer to 100€, which is still significantly cheaper than off-the-shelf keyboards or even many DIY kits.
 
+Mk.3 also got new plates due to the new switches. The plate is based on the original outline but now made using OpenSCAD.
+
 ## Mk. 2
 For the second version I started from scratch. I desoldered the switches and threw everything else out. I knew I had to get hotswap sockets for the second version. This time I sourced everything from AliExpress. The 1N4148 diodes that cost me 10€ in Finland were a couple euros from AliExpress. The microcontrollers were 70% cheaper. The hotswap sockets were 2€. This time, I also got proper TRRS sockets and a nice looking cable.
 
