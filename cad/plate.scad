@@ -24,7 +24,7 @@ holes = [
 // Base outline.
 difference() {
 rotate(-90)
-    import("../svg/top.svg");
+    import("../svg/original-top.svg");
 
 // Column 1.
 color("red")
@@ -37,7 +37,6 @@ color("lime")
 for (i = [0:3]) 
     translate([col1_x + 20, -22- 20*i])
         square(switch_hole_size, center=true );
-
 
 // Thumb cluster.
 translate([24.5, -121.1])
