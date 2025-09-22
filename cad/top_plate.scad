@@ -3,7 +3,7 @@ use <plate.scad>
 top_plate();
 
 module top_plate() {
-    switch_hole_size = 15;
+    switch_hole_size = 16;
     col1_x = 41;
     col_stagger = [-27, -22, -17, -22, -32, -32];
     hole_radii = 1.6;
