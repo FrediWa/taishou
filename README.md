@@ -14,3 +14,6 @@ For the second version I started from scratch. I desoldered the switches and thr
 I also started the design from scratch, this time using 3D models for everything I could find. I used the same column stagger, but otherwise started from scratch. When I was happy with the design, I exported the plates to SVG and had a local workshop cut them out of 3mm acryllic. This cost me 10€. The holes were slightly too big so the switches would pop out without any effort. This lead me to design a backing for the switches. It took 3 prototypes, but in the end I got a 3D printed part that would hold on to the switch from the otherside of the plate. When glued together with neighboring back pieces, they would also form a sort of strain relief for the otherwise very fragile switch matrix. Speaking of the switch matrix, I had to redo that as well. This was another few hours of headache. 
 
 The projects current state is that one half is wired and working, The wiring is a mess and I might just start on Mk.3 instead of fixing it. 
+
+## Notes to self
+`flash -kb kbx7 -km default -bl uf2-split-right`
