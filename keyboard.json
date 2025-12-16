@@ -9,8 +9,8 @@
         "device_version": "1.0.0"
     },
     "matrix_pins": {
-        "cols": ["GP27", "GP19", "GP28", "GP22", "GP15", "GP13"],
-        "rows": ["GP29", "GP5", "GP21", "GP20", "GP17"]
+        "cols": ["GP10", "GP11", "GP14", "GP9", "GP7", "GP29"],
+        "rows": ["GP5", "GP8", "GP12", "GP13", "GP15"]
     },
     "diode_direction": "COL2ROW",
     "split": {
@@ -21,8 +21,8 @@
         },
         "matrix_pins": {
             "right": {
-                "cols": ["GP4", "GP29", "GP9", "GP27", "GP28", "GP3"],
-                "rows": ["GP7", "GP26", "GP18", "GP6", "GP17"]
+                "cols": ["GP10", "GP11", "GP14", "GP9", "GP7", "GP29"],
+                "rows": ["GP5", "GP8", "GP12", "GP13", "GP15"]
             }
         },
 
